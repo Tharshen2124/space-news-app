@@ -1,7 +1,7 @@
 # Space News App
 
 ## About this project
-The app shows relevant information about astronomy/space-related things using data that we will be fetching from APIs. The point of this project is for my friend, Wei Jie and i to hopefully be able to understand and get use to using git for collaborating as well as expand our knowledge in popular Javascript frameworks.
+The app shows relevant information about astronomy/space-related things using data that we will be fetching from APIs. The point of this project is for my friend, Wei Jie and I to hopefully be able to understand and get use to using git for collaborations as well as expand our knowledge in popular Javascript frameworks.
 
 ## Objectives
  - To know how to use NEXT.js
